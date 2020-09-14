@@ -18,7 +18,7 @@ Details on the system can be found in the CloudBackup Design Specifications PDF.
 ## Future Improvements
 
 - An improved README with examples.
-- A demo of the system being used in a simple game. (Maybe a bare-bones clicker game about clicking cows, and you can save your score)
+- A demo of the system being used in a simple game. (Maybe a bare-bones clicker game about clicking cows, and you can save your score) 🐮
 - Potentially creating a tutorial on how to set up the simplest server capable of running CloudBackup.
 - Allowing for huge strings to be stored/handled.
 - Improving the wording and format of error messages, and adding error codes.
