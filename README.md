@@ -24,3 +24,4 @@ Details on the system can be found in the CloudBackup Design Specifications PDF.
 - Improving the wording and format of error messages, and adding error codes.
 - Add an API function to encode/decode for characters [&,’,”,<,>], using the substring of the developer’s choice.
 - Restructuring the files such that installation of backend is easier.
+- Remedying potentially silly coding choices (like including both echo & die).
