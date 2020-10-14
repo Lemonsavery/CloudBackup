@@ -2,7 +2,7 @@
 // Replace this string with the directory of the mysql_cloud_backup.php file.
 $script_dir = "../../../Scripts/";
 
-function html_echo_safe($field, &$str){ // Maybe pass &$str instead? If it works it's more resource efficient.
+function html_echo_safe($field, &$str){
 	if(gettype($str) !== "string"){
 		echo("0,(store_data.php) $field is not string - field must be string.");
 		die();
